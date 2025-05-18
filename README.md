@@ -2,7 +2,7 @@
 
 This project demonstrates a beginner-to-intermediate level SQL project using **MySQL Workbench**, simulating an **Online Bookstore**. It includes database schema creation, CSV data import, and both basic and advanced SQL practice queries.
 
-**Database and Tools**
+# **Database and Tools**
 MySQL Workbench
 
 ## 📁 Files Included
